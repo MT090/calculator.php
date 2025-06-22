@@ -5,7 +5,7 @@ my name is mohammmed temam and this is my php project
 Simple PHP Calculator
 This project is a simple web-based calculator built using PHP and HTML. It allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers 
 
-Featts four operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/).
+Features four operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/).
 Validates input to prevent division by zero.
 Displays the result of the calculation on the same page.
 Simple and clean user interface with CSS styling (linked via style.css).
